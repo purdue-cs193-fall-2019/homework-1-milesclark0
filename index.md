@@ -1,4 +1,9 @@
-# _Welcome to GitHub Pages_
+# _Miles's First CS193 Homework_
+
+## Some favorites about CS193:
+- No exams
+- Teaches good tips for freshmen
+- Has chill TA's
 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
